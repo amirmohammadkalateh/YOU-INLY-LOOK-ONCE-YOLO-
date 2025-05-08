@@ -1,4 +1,4 @@
-# YOU-INLY-LOOK-ONCE-YOLO
+# YOU-ONLY-LOOK-ONCE-YOLO
 ## You Only Look Once (YOLO) for Object Detection
 
 YOLO (You Only Look Once) is a state-of-the-art, real-time object detection system. Unlike traditional methods that first identify potential regions of interest and then classify them, YOLO takes a fundamentally different approach: it processes the entire image in a single forward pass of a convolutional neural network. This "single look" allows for significantly faster inference speeds, making it ideal for applications where speed is critical.
